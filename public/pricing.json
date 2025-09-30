@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "plan": "Basic",
+        "price": 20,
+        "currency": "USD",
+        "info": "Good for beginners who want access to essential equipment.",
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "1 free fitness assessment"
+        ]
+    },
+    {
+        "id": 2,
+        "plan": "Standard",
+        "price": 40,
+        "currency": "USD",
+        "info": "Perfect for regular members looking for classes and extra perks.",
+        "features": [
+            "All Basic plan features",
+            "Unlimited group classes",
+            "Free yoga & Zumba sessions",
+            "Discount on supplements"
+        ]
+    },
+    {
+        "id": 3,
+        "plan": "Premium",
+        "price": 70,
+        "currency": "USD",
+        "info": "Ideal for fitness enthusiasts who want full benefits.",
+        "features": [
+            "All Standard plan features",
+            "Personal trainer (4 sessions/month)",
+            "Access to VIP lounge & sauna",
+            "Nutrition consultation"
+        ]
+    }
+]
